@@ -7,7 +7,7 @@
 ### 2. Setup
 1. **Clone & install**
    ```bash
-   cd /Users/huynhngocanhthu/server-math-web
+   cd /Users/downloads/server-math-web
    npm install
    ```
 2. **Environment**
